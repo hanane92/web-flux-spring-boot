@@ -1,0 +1,3 @@
+ce microservice et une API REST REACTIVE
+client va acceder au donne de ce micro via le microservice de l'autre projet web-flux reactif
+la communication entre les deux micro va etre faite via WebClient
